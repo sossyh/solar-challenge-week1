@@ -1,0 +1,6 @@
+# Ignore data and temp files
+data/
+*.csv
+.ipynb_checkpoints/
+.venv/
+__pycache__/
