@@ -1,10 +1,11 @@
 # Ignore virtual environment
 .venv/
-
-# Ignore data and checkpoints
+# Ignore data files
 data/
 *.csv
-.ipynb_checkpoints/
+*.tsv
+*.xlsx
+
 
 # Python cache
 __pycache__/
