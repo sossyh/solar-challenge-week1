@@ -19,6 +19,7 @@ This interactive **Streamlit dashboard** visualizes solar irradiance data from *
 
 
 git clone https://github.com/sossyh/solar-challenge-week1.git
+
 cd solar-challenge-week1
 
 2. **Set up virtual environment:**
