@@ -34,7 +34,7 @@ source .venv/bin/activate      # On macOS/Linux
 pip install -r requirements.txt
 
 
-### Example: GHI Boxplot
+### Example: GHI Boxplot (dashboard_screenshots)
 ![GHI Boxplot](assets/all.png)
 ![GHI Boxplot](assets/2.png)
 ![GHI Boxplot](assets/1.png)
