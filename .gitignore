@@ -5,6 +5,15 @@ data/
 *.csv
 *.tsv
 *.xlsx
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.DS_Store
+.env
+
 
 
 # Python cache
